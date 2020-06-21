@@ -5,20 +5,12 @@
     <link>https://zhiwpku.github.io/author/zhi-wang/</link>
       <atom:link href="https://zhiwpku.github.io/author/zhi-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhi Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 16:39:25 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 16:34:01 -0400</lastBuildDate>
     <image>
       <url>https://zhiwpku.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Zhi Wang</title>
       <link>https://zhiwpku.github.io/author/zhi-wang/</link>
     </image>
-    
-    <item>
-      <title>Adaptively Weighted Stochastic Gradient Descent Algorithm</title>
-      <link>https://zhiwpku.github.io/working/mrn_algorithm/</link>
-      <pubDate>Sun, 21 Jun 2020 16:39:25 -0400</pubDate>
-      <guid>https://zhiwpku.github.io/working/mrn_algorithm/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Accurate assessment via process data</title>
@@ -29,7 +21,7 @@
     </item>
     
     <item>
-      <title>Statistical Analysis of Multi-Relational Network Recovery</title>
+      <title>Statistical analysis of multi-relational network recovery</title>
       <link>https://zhiwpku.github.io/working/mrn_theory/</link>
       <pubDate>Sun, 21 Jun 2020 16:29:05 -0400</pubDate>
       <guid>https://zhiwpku.github.io/working/mrn_theory/</guid>
@@ -38,9 +30,9 @@
     
     <item>
       <title>ProcData: An R package for process data analysis</title>
-      <link>https://zhiwpku.github.io/working/process_data_package/</link>
+      <link>https://zhiwpku.github.io/publication/process_data_package/</link>
       <pubDate>Sun, 21 Jun 2020 16:19:13 -0400</pubDate>
-      <guid>https://zhiwpku.github.io/working/process_data_package/</guid>
+      <guid>https://zhiwpku.github.io/publication/process_data_package/</guid>
       <description></description>
     </item>
     
@@ -65,6 +57,14 @@
       <link>https://zhiwpku.github.io/publication/process_data_mds/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       <guid>https://zhiwpku.github.io/publication/process_data_mds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptively weighted stochastic gradient descent algorithm</title>
+      <link>https://zhiwpku.github.io/working/mrn_algorithm/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhiwpku.github.io/working/mrn_algorithm/</guid>
       <description></description>
     </item>
     
