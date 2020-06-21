@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automated scoring | Zhi Wang</title>
+    <link>https://zhiwpku.github.io/tag/automated-scoring/</link>
+      <atom:link href="https://zhiwpku.github.io/tag/automated-scoring/index.xml" rel="self" type="application/rss+xml" />
+    <description>automated scoring</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 16:34:01 -0400</lastBuildDate>
+    <image>
+      <url>https://zhiwpku.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>automated scoring</title>
+      <link>https://zhiwpku.github.io/tag/automated-scoring/</link>
+    </image>
+    
+    <item>
+      <title>Accurate assessment via process data</title>
+      <link>https://zhiwpku.github.io/working/process_data_scoring/</link>
+      <pubDate>Sun, 21 Jun 2020 16:34:01 -0400</pubDate>
+      <guid>https://zhiwpku.github.io/working/process_data_scoring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
