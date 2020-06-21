@@ -63,12 +63,17 @@
   </url>
   
   <url>
-    <loc>https://zhiwpku.github.io/tag/feature-extraction/</loc>
+    <loc>https://zhiwpku.github.io/tag/autoencoder/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhiwpku.github.io/tag/method/</loc>
+    <loc>https://zhiwpku.github.io/categories/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/tag/feature-extraction/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,13 +83,48 @@
   </url>
   
   <url>
-    <loc>https://zhiwpku.github.io/tag/stat.-ml/</loc>
+    <loc>https://zhiwpku.github.io/tag/recurrent-neural-network/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/category/stat.ap/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/category/stat.ml/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://zhiwpku.github.io/tags/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/publication/process_data_mds/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/tag/log-file-analysis/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/tag/multidimentional-scaling/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/author/qiwei-he/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/tag/response-process/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -110,10 +150,6 @@
   <url>
     <loc>https://zhiwpku.github.io/publication/comm/</loc>
     <lastmod>2018-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/categories/</loc>
   </url>
   
   <url>
