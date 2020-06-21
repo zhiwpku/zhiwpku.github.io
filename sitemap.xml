@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://zhiwpku.github.io/publication/process_data_seq2seq/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zhiwpku.github.io/authors/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
@@ -18,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://zhiwpku.github.io/publication/process_data_seq2seq/</loc>
+    <loc>https://zhiwpku.github.io/tag/methodology/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,6 +34,16 @@
   
   <url>
     <loc>https://zhiwpku.github.io/publication/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/tag/stat-ml/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/tags/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -62,10 +77,6 @@
   
   <url>
     <loc>https://zhiwpku.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/tags/</loc>
   </url>
   
   <url>
