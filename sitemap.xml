@@ -4,66 +4,26 @@
   
   <url>
     <loc>https://zhiwpku.github.io/publication-type/3/</loc>
-    <lastmod>2020-06-21T12:39:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/authors/</loc>
-    <lastmod>2020-06-21T12:39:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/working/process_data_subtask/</loc>
-    <lastmod>2020-06-21T12:39:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/author/jingchen-liu/</loc>
-    <lastmod>2020-06-21T12:39:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/publication_types/</loc>
-    <lastmod>2020-06-21T12:39:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/working/</loc>
-    <lastmod>2020-06-21T12:39:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/author/xueying-tang/</loc>
-    <lastmod>2020-06-21T12:39:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/author/zhi-wang/</loc>
-    <lastmod>2020-06-21T12:39:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/</loc>
-    <lastmod>2020-06-21T12:39:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/author/zhiliang-ying/</loc>
-    <lastmod>2020-06-21T12:39:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/working/process_data_scoring/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhiwpku.github.io/working/mrn_algorithm/</loc>
+    <loc>https://zhiwpku.github.io/publication/process_data_scoring/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/publication/mrn_algorithm/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://zhiwpku.github.io/category/algorithm/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/authors/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,6 +38,16 @@
   </url>
   
   <url>
+    <loc>https://zhiwpku.github.io/publication/process_data_subtask/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/author/jingchen-liu/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zhiwpku.github.io/author/jitong-qi/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
@@ -88,7 +58,17 @@
   </url>
   
   <url>
-    <loc>https://zhiwpku.github.io/working/process_data_package/</loc>
+    <loc>https://zhiwpku.github.io/publication/process_data_package/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/publication_types/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/publication/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://zhiwpku.github.io/working/mrn_theory/</loc>
+    <loc>https://zhiwpku.github.io/publication/mrn_theory/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -119,6 +99,26 @@
   
   <url>
     <loc>https://zhiwpku.github.io/category/theory/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/author/xueying-tang/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/author/zhi-wang/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhiwpku.github.io/author/zhiliang-ying/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,11 +139,6 @@
   
   <url>
     <loc>https://zhiwpku.github.io/tag/feature-extraction/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhiwpku.github.io/publication/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
   
