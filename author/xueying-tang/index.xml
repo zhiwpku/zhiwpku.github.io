@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Exploratory analysis of process data through a predictive model</title>
-      <link>https://zhiwpku.github.io/publication/process_data_subtask/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://zhiwpku.github.io/publication/process_data_subtask/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ProcData: An R package for process data analysis</title>
       <link>https://zhiwpku.github.io/publication/process_data_package/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
@@ -41,6 +33,14 @@
       <link>https://zhiwpku.github.io/publication/mrn_theory/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://zhiwpku.github.io/publication/mrn_theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subtask analysis of process data through a predictive model</title>
+      <link>https://zhiwpku.github.io/publication/process_data_subtask/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://zhiwpku.github.io/publication/process_data_subtask/</guid>
       <description></description>
     </item>
     
