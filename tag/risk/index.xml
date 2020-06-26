@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>risk | Zhi Wang</title>
+    <link>https://zhiwpku.github.io/tag/risk/</link>
+      <atom:link href="https://zhiwpku.github.io/tag/risk/index.xml" rel="self" type="application/rss+xml" />
+    <description>risk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhiwpku.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>risk</title>
+      <link>https://zhiwpku.github.io/tag/risk/</link>
+    </image>
+    
+    <item>
+      <title>Statistical analysis of multi-relational network recovery</title>
+      <link>https://zhiwpku.github.io/publication/mrn_theory/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://zhiwpku.github.io/publication/mrn_theory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
