@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R package | Zhi Wang</title>
-    <link>https://zhiwpku.github.io/category/r-package/</link>
-      <atom:link href="https://zhiwpku.github.io/category/r-package/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.columbia.edu/~zw2393/category/r-package/</link>
+      <atom:link href="http://www.columbia.edu/~zw2393/category/r-package/index.xml" rel="self" type="application/rss+xml" />
     <description>R package</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zhiwpku.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://www.columbia.edu/~zw2393/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>R package</title>
-      <link>https://zhiwpku.github.io/category/r-package/</link>
+      <link>http://www.columbia.edu/~zw2393/category/r-package/</link>
     </image>
     
     <item>
       <title>ProcData: An R package for process data analysis</title>
-      <link>https://zhiwpku.github.io/publication/process_data_package/</link>
+      <link>http://www.columbia.edu/~zw2393/publication/process_data_package/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://zhiwpku.github.io/publication/process_data_package/</guid>
+      <guid>http://www.columbia.edu/~zw2393/publication/process_data_package/</guid>
       <description></description>
     </item>
     

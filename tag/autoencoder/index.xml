@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>autoencoder | Zhi Wang</title>
-    <link>https://zhiwpku.github.io/tag/autoencoder/</link>
-      <atom:link href="https://zhiwpku.github.io/tag/autoencoder/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.columbia.edu/~zw2393/tag/autoencoder/</link>
+      <atom:link href="http://www.columbia.edu/~zw2393/tag/autoencoder/index.xml" rel="self" type="application/rss+xml" />
     <description>autoencoder</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zhiwpku.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://www.columbia.edu/~zw2393/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>autoencoder</title>
-      <link>https://zhiwpku.github.io/tag/autoencoder/</link>
+      <link>http://www.columbia.edu/~zw2393/tag/autoencoder/</link>
     </image>
     
     <item>
       <title>An exploratory analysis of the latent structure of process data via action sequence autoencoders</title>
-      <link>https://zhiwpku.github.io/publication/process_data_seq2seq/</link>
+      <link>http://www.columbia.edu/~zw2393/publication/process_data_seq2seq/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://zhiwpku.github.io/publication/process_data_seq2seq/</guid>
+      <guid>http://www.columbia.edu/~zw2393/publication/process_data_seq2seq/</guid>
       <description></description>
     </item>
     

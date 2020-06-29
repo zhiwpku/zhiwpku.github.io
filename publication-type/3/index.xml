@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Zhi Wang</title>
-    <link>https://zhiwpku.github.io/publication-type/3/</link>
-      <atom:link href="https://zhiwpku.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.columbia.edu/~zw2393/publication-type/3/</link>
+      <atom:link href="http://www.columbia.edu/~zw2393/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zhiwpku.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://www.columbia.edu/~zw2393/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
-      <link>https://zhiwpku.github.io/publication-type/3/</link>
+      <link>http://www.columbia.edu/~zw2393/publication-type/3/</link>
     </image>
     
     <item>
       <title>Accurate assessment via process data</title>
-      <link>https://zhiwpku.github.io/publication/process_data_scoring/</link>
+      <link>http://www.columbia.edu/~zw2393/publication/process_data_scoring/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://zhiwpku.github.io/publication/process_data_scoring/</guid>
+      <guid>http://www.columbia.edu/~zw2393/publication/process_data_scoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptively weighted stochastic gradient descent algorithm</title>
-      <link>https://zhiwpku.github.io/publication/mrn_algorithm/</link>
+      <link>http://www.columbia.edu/~zw2393/publication/mrn_algorithm/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://zhiwpku.github.io/publication/mrn_algorithm/</guid>
+      <guid>http://www.columbia.edu/~zw2393/publication/mrn_algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ProcData: An R package for process data analysis</title>
-      <link>https://zhiwpku.github.io/publication/process_data_package/</link>
+      <link>http://www.columbia.edu/~zw2393/publication/process_data_package/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://zhiwpku.github.io/publication/process_data_package/</guid>
+      <guid>http://www.columbia.edu/~zw2393/publication/process_data_package/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical analysis of multi-relational network recovery</title>
-      <link>https://zhiwpku.github.io/publication/mrn_theory/</link>
+      <link>http://www.columbia.edu/~zw2393/publication/mrn_theory/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://zhiwpku.github.io/publication/mrn_theory/</guid>
+      <guid>http://www.columbia.edu/~zw2393/publication/mrn_theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subtask analysis of process data through a predictive model</title>
-      <link>https://zhiwpku.github.io/publication/process_data_subtask/</link>
+      <link>http://www.columbia.edu/~zw2393/publication/process_data_subtask/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://zhiwpku.github.io/publication/process_data_subtask/</guid>
+      <guid>http://www.columbia.edu/~zw2393/publication/process_data_subtask/</guid>
       <description></description>
     </item>
     
