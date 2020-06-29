@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Zhi Wang</title>
-    <link>http://www.columbia.edu/~zw2393/publication-type/2/</link>
-      <atom:link href="http://www.columbia.edu/~zw2393/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhiwpku.github.io/publication-type/2/</link>
+      <atom:link href="https://zhiwpku.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.columbia.edu/~zw2393/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zhiwpku.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>http://www.columbia.edu/~zw2393/publication-type/2/</link>
+      <link>https://zhiwpku.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>An exploratory analysis of the latent structure of process data via action sequence autoencoders</title>
-      <link>http://www.columbia.edu/~zw2393/publication/process_data_seq2seq/</link>
+      <link>https://zhiwpku.github.io/publication/process_data_seq2seq/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.columbia.edu/~zw2393/publication/process_data_seq2seq/</guid>
+      <guid>https://zhiwpku.github.io/publication/process_data_seq2seq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent feature extraction for process data via multidimensional scaling</title>
-      <link>http://www.columbia.edu/~zw2393/publication/process_data_mds/</link>
+      <link>https://zhiwpku.github.io/publication/process_data_mds/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.columbia.edu/~zw2393/publication/process_data_mds/</guid>
+      <guid>https://zhiwpku.github.io/publication/process_data_mds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sums of possibly associated multivariate indicator functions: The Conway–Maxwell-Multinomial distribution</title>
-      <link>http://www.columbia.edu/~zw2393/publication/comm/</link>
+      <link>https://zhiwpku.github.io/publication/comm/</link>
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://www.columbia.edu/~zw2393/publication/comm/</guid>
+      <guid>https://zhiwpku.github.io/publication/comm/</guid>
       <description></description>
     </item>
     
